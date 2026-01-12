@@ -112,7 +112,7 @@ const Contact = () => {
             href="mailto:hello@johndoe.com"
             className="text-2xl font-medium text-slate-900 border-b-2 border-slate-900 hover:text-slate-600 hover:border-slate-600 transition-all"
           >
-            hello@johndoe.com
+            allwebsvs@gmail.com
           </a>
         </div>
       </section>
